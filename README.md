@@ -52,4 +52,26 @@ Contributions are welcome! If you'd like to contribute to NeuroHeal, please foll
 
 ## Contact
 
-For inquiries about NeuroHeal and its models, please contact [aamr11403@gmail.com](mailto:aamr11403@gmail.com).
+For inquiries about NeuroHeal and its models, please contact [mohamedd.gobara@gmail.com](mohamedd.gobara@gmail.com).
+
+## Site Images
+
+### Home Page
+
+![WhatsApp Image 2024-07-20 at 7 57 32 PM](https://github.com/user-attachments/assets/9a7ec131-2eda-4246-95cc-873d7518dcda)
+
+### Knee osteoporosis classification Page
+
+![WhatsApp Image 2024-07-20 at 7 57 51 PM](https://github.com/user-attachments/assets/034a9f5a-472a-4b30-9ea8-29ed28b83356)
+
+### Skin cancer classification Page
+
+![WhatsApp Image 2024-07-20 at 7 57 41 PM](https://github.com/user-attachments/assets/bf1baa6f-1c98-4bd5-b02e-74190b796ec0)
+
+### Skin disease classification Page
+
+![WhatsApp Image 2024-07-20 at 7 57 36 PM](https://github.com/user-attachments/assets/153c3f54-bba9-4eac-8149-c795067f842c)
+
+### Mental Health classification Page
+
+![WhatsApp Image 2024-07-20 at 7 57 45 PM](https://github.com/user-attachments/assets/07011029-10f5-45a1-9364-84a4c5e8b64f)
